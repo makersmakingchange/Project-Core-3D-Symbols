@@ -56,7 +56,7 @@ The Bill of Materials and the 3D Printing Guide were created by Neil Squire / Ma
 
 
 ## License
-<img src="https://creativecommons.org/licenses/by/4.0/" alt="Creative Commons CC-BY license logo">
+<img src="https://licensebuttons.net/l/by/4.0/88x31.png" alt="Creative Commons CC-BY license logo">
 
 The 3D Universal Core Vocabulary Symbols by [The Center for Literacy and Disability Studies](https://www.project-core.com/3d-symbols/) are licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
