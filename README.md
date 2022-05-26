@@ -46,6 +46,7 @@ Unfortunately, the original design files are not available for this project.
 
 ### Build Files
  - [3D Print Files](/Build_Files/3D_Print_Files)
+ 
  Note: The original filenames have been changed to the following format: WORD_COLOR_VERSION.stl. This should make it easier to print the symbols in the intended color if so desired.
 
 ## Attribution
