@@ -1,7 +1,7 @@
 # Project Core 3D Symbols
 The Project Core 3D symbols consists of a set of 3D printable three-dimensional (3D) symbols that represent 36 words in the Universal Core vocabulary. The word category is indicated with the shape, texture, and color of the base. The individual word is indicated with a unique raised element, the printed word, and the word in Braille. This repository contains a copy of Version 4, last updated January 2020. For instructions on how to introduce and use these symbols, refer to the original site: http://www.project-core.com/3d-symbols/   
 
-![Device Name](Photos/Project-Core-3D-Symbol_Starter-Set.jpg){width=500px}
+<img src="Photos/Project-Core-3D-Symbol_Starter-Set.jpg" width="500" alt="Picture of three 3D printed tactile symbols. There are three symbols, a triangular red 'Go', a triangular red 'Like', and a circular yellow 'Not'.">
 
 | **Word Class** | **Shape** |              **Edge Texture**             | **Color** |
 |:--------------:|:---------:|:-----------------------------------------:|:---------:|
