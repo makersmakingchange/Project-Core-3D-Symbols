@@ -27,7 +27,7 @@ The Project Core 3D symbols consists of a set of 3D printable three-dimensional 
 Refer to the usage guide and/or consult with the user to determine which of the symbols are required.
 
 ### 2. 3D Print the Symbols
-All of the individual print files are in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing/) folder.
+All of the individual print files are in the [/Build_Files/3D_Print_Files](/Build_Files/3D_Print_Files/) folder.
 Note that depending on the word class, there are 7 different intended colors of filament. The starter set (GO, LIKE, NOT) requires two filament colors: yellow and red. If printed in the intended colors, the full set of 36 requires 5 filament colors: yellow, blue, white, green, and red.
 
 
@@ -45,7 +45,7 @@ Note that depending on the word class, there are 7 different intended colors of 
 Unfortunately, the original design files are not available for this project.
 
 ### Build Files
- - [3D Printing Files](/Build_Files/3D_Printing)
+ - [3D Print Files](/Build_Files/3D_Print_Files)
  Note: The original filenames have been changed to the following format: WORD_COLOR_VERSION.stl. This should make it easier to print the symbols in the intended color if so desired.
 
 ## Attribution
