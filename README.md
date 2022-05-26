@@ -38,7 +38,7 @@ Note that depending on the word class, there are 7 different intended colors of 
 |----------------------|---------|------|
 | Bill of Materials    | 1.0     | [Project-Core-3D-Symbols_Bill_of_Materials](/Documentation/Project-Core-3D-Symbols_BOM_V1.0.xlsx)     |
 | Maker Checklist      | 1.0     | [Project-Core-3D-Symbols_Maker_Checklist](/Documentation/Project-Core-3D-Symbols_Maker_Checklist_V1.0.pdf)     |
-| User Guide           | 09.25.17    | [Project-Core-3D-Symbols_Use](/Documentation/Project-Core-3D-Symbol_Use_09.25.17)    |
+| User Guide           | 09.25.17    | [Project-Core-3D-Symbols_Use](/Documentation/Project-Core-3D-Symbols_Use_09.25.17.pdf)    |
 | Changelog            | 1.0     | [Project-Core-3D-Symbols_Changelog](/Documentation/Project-Core-3D-Symbols_Changelog_V1.0.pdf)     |
 
 ### Design Files
