@@ -37,8 +37,8 @@ Note that depending on the word class, there are 7 different intended colors of 
 | Document             | Version | Link |
 |----------------------|---------|------|
 | Bill of Materials    | 1.0     | [Project-Core-3D-Symbols_Bill_of_Materials](/Documentation/Project-Core-3D-Symbols_BOM_V1.0.xlsx)     |
-| Maker Checklist      | 1.0     | [Project-Core-3D-Symbols_Maker_Checklist](/Documentation/Project-Core-3D-Symbols_Checklist_V1.0.pdf)     |
-| User Guide           | 09.25.17    | [Project-Core-3D-Symbols_Use](/Documentation/Project_Core_3D_Symbol_Use_09.25.17)    |
+| Maker Checklist      | 1.0     | [Project-Core-3D-Symbols_Maker_Checklist](/Documentation/Project-Core-3D-Symbols_Maker_Checklist_V1.0.pdf)     |
+| User Guide           | 09.25.17    | [Project-Core-3D-Symbols_Use](/Documentation/Project-Core-3D-Symbol_Use_09.25.17)    |
 | Changelog            | 1.0     | [Project-Core-3D-Symbols_Changelog](/Documentation/Project-Core-3D-Symbols_Changelog_V1.0.pdf)     |
 
 ### Design Files
@@ -46,7 +46,7 @@ Unfortunately, the original design files are not available for this project.
 
 ### Build Files
  - [3D Print Files](/Build_Files/3D_Print_Files)
- 
+
  Note: The original filenames have been changed to the following format: WORD_COLOR_VERSION.stl. This should make it easier to print the symbols in the intended color if so desired.
 
 ## Attribution
@@ -56,8 +56,9 @@ The Bill of Materials and the 3D Printing Guide were created by Neil Squire / Ma
 
 
 ## License
-<img src="http://creativecommons.org/licenses/by/4.0/" alt="Creative Commons CC-BY license logo">
-The 3D Universal Core Vocabulary Symbols by [The Center for Literacy and Disability Studies](http://www.project-core.com/3d-symbols/) are licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+<img src="https://creativecommons.org/licenses/by/4.0/" alt="Creative Commons CC-BY license logo">
+
+The 3D Universal Core Vocabulary Symbols by [The Center for Literacy and Disability Studies](https://www.project-core.com/3d-symbols/) are licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
 
 
