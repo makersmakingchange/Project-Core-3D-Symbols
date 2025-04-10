@@ -18,7 +18,6 @@ The Project Core 3D symbols consists of a set of 3D printable three-dimensional 
 - [Project Core 3D Symbols](http://www.project-core.com/3d-symbols)
 - [Project Core 3D Symbol - Use Instructions](http://www.project-core.com/3d-symbols-use/)
 - [Makers Making Change Project Page](https://makersmakingchange.com/project/project-core-3d-symbols/)
-- [Makers Making Change Forum Thread](https://makersmakingchange.com/forum/topic/project-core-3d-symbols/)
 
 
 ## Getting Started
@@ -38,7 +37,7 @@ Note that depending on the word class, there are 7 different intended colors of 
 |----------------------|---------|------|
 | Bill of Materials    | 1.0     | [Project-Core-3D-Symbols_Bill_of_Materials](/Documentation/Project-Core-3D-Symbols_BOM_V1.0.xlsx)     |
 | Maker Checklist      | 1.0     | [Project-Core-3D-Symbols_Maker_Checklist](/Documentation/Project-Core-3D-Symbols_Maker_Checklist_V1.0.pdf)     |
-| User Guide           | 09.25.17    | [Project-Core-3D-Symbols_Use](/Documentation/Project-Core-3D-Symbols_Use_09.25.17.pdf)    |
+| User Guide           | 09.25.17   | [Project-Core-3D-Symbols_Use](/Documentation/Project-Core-3D-Symbols_Use_09.25.17.pdf)    |
 | Changelog            | 1.0     | [Project-Core-3D-Symbols_Changelog](/Documentation/Project-Core-3D-Symbols_Changelog_V1.0.pdf)     |
 
 ### Design Files
@@ -63,7 +62,7 @@ The 3D Universal Core Vocabulary Symbols by [The Center for Literacy and Disabil
 
 
 ----
-
+<!-- ABOUT MMC START -->
 ## About Us
 <img src="https://www.makersmakingchange.com/wp-content/uploads/logo/mmc_logo.svg" width="500" alt="Makers Making Change Logo">
 
@@ -80,3 +79,5 @@ We are committed to creating a network of volunteer makers who support people wi
 ## Contact Us
 
 For technical questions, to get involved, or share your experience we encourage you to visit the [MMC Forum](https://makersmakingchange.com/forum), or contact info@makersmakingchange.com
+
+<!-- ABOUT MMC END -->
