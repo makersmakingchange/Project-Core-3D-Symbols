@@ -1,5 +1,5 @@
 # Project Core 3D Symbols
-The Project Core 3D symbols consists of a set of 3D printable three-dimensional (3D) symbols that represent 36 words in the Universal Core vocabulary. The word category is indicated with the shape, texture, and color of the base. The individual word is indicated with a unique raised element, the printed word, and the word in Braille. This repository contains a copy of Version 4, last updated January 2020. For instructions on how to introduce and use these symbols, refer to the original site: http://www.project-core.com/3d-symbols/   
+The Project Core 3D Symbols consists of a set of 3D printable three-dimensional (3D) symbols that represent the 36 words in the Universal Core Vocabulary. The word category is indicated with the shape, texture, and color of the base. The individual word is indicated with a unique raised element, the printed word, and the word in Braille. This repository contains a copy of Version 4, last updated January 2020. For instructions on how to introduce and use these symbols, refer to the original site: http://www.project-core.com/3d-symbols/   
 
 <img src="Photos/Project-Core-3D-Symbol_Starter-Set.jpg" width="500" alt="Picture of three 3D printed tactile symbols. There are three symbols, a triangular red 'Go', a triangular red 'Like', and a circular yellow 'Not'.">
 
@@ -17,7 +17,7 @@ The Project Core 3D symbols consists of a set of 3D printable three-dimensional 
 - [Project Core](http://www.project-core.com/)
 - [Project Core 3D Symbols](http://www.project-core.com/3d-symbols)
 - [Project Core 3D Symbol - Use Instructions](http://www.project-core.com/3d-symbols-use/)
-- [Makers Making Change Project Page](https://makersmakingchange.com/project/project-core-3d-symbols/)
+- [Makers Making Change Project Page](https://www.makersmakingchange.com/s/product/project-core-3d-symbols/01tJR000000699GYAQ)
 
 
 ## Getting Started
@@ -46,7 +46,7 @@ Unfortunately, the original design files are not available for this project.
 ### Build Files
  - [3D Print Files](/Build_Files/3D_Print_Files)
 
- Note: The original filenames have been changed to the following format: WORD_COLOR_VERSION.stl. This should make it easier to print the symbols in the intended color if so desired.
+Note: The original filenames have been changed to the following format: WORD_COLOR_VERSION.stl. This should make it easier to print the symbols in the intended color if so desired.
 
 ## Attribution
 The 3D Universal Core Vocabulary Symbols were designed by [The Center for Literacy and Disability Studies](http://www.project-core.com/3d-symbols/).
@@ -55,10 +55,10 @@ The Bill of Materials and the 3D Printing Guide were created by Neil Squire / Ma
 
 
 ## License
-<img src="https://licensebuttons.net/l/by/4.0/88x31.png" alt="Creative Commons CC-BY license logo">
 
-The 3D Universal Core Vocabulary Symbols by [The Center for Literacy and Disability Studies](https://www.project-core.com/3d-symbols/) are licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+ - The 3D Universal Core Vocabulary Symbols by [The Center for Literacy and Disability Studies](https://www.project-core.com/3d-symbols/) are licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
+ - Accompanying material such as instruction manuals, videos, and other copyrightable works that are useful but not necessary to design, make, test, or prepare the Project Core 3D Symbols are published under a [Creative Commons Attribution-ShareAlike 4.0 license (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
 
 
 ----
